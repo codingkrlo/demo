@@ -1,3 +1,3 @@
 # demo
 first git repository
-author-ankit
+author-ankit singh
